@@ -15,17 +15,17 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a CS student who likes knowing how things work underneath. I write **Python** and **C** for CLI tools, simulators and networking projects, and I build full-stack apps in **JavaScript** when I want something people can actually use.
 
-- 🧠 Into **computer architecture, networking and competitive programming**
-- 💬 Ask me about **Python, low-level systems and CLI tools**
-- 🤝 Open to collaborating on projects
+- Into **computer architecture, networking and competitive programming**
+- Ask me about **Python, low-level systems and CLI tools**
+- Open to collaborating on projects
 
 <br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -42,12 +42,12 @@ I'm a CS student who likes knowing how things work underneath. I write **Python*
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏃 SinCity Stride</h3>
+      <h3>SinCity Stride</h3>
       <p>Gamified running app with a story. Track real GPS runs, complete quests, level up, and switch between a bright <b>Uptown</b> mode and a dark <b>SinCity</b> mode where you capture map districts. Friends, streaks and run history included.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -58,7 +58,7 @@ I'm a CS student who likes knowing how things work underneath. I write **Python*
       <br/><sub>Hackathon project with <a href="https://github.com/aryancapy-17">Aryan Thumula</a></sub>
     </td>
     <td width="50%" valign="top">
-      <h3>📡 Offline Mesh Network</h3>
+      <h3>Offline Mesh Network</h3>
       <p>Emergency chat that works with no internet. Nodes discover each other, send direct messages, broadcast to everyone and keep a history log. UDP sockets plus a receiver thread so you can type and receive at once.</p>
       <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/>
       <img src="https://img.shields.io/badge/UDP%20Sockets-555555?style=flat" alt="UDP"/>
@@ -92,7 +92,7 @@ I'm a CS student who likes knowing how things work underneath. I write **Python*
 
 <br/>
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
   <b>Always up to talk systems, architecture, competitive programming, or to team up on a project.</b>
