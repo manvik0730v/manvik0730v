@@ -2,9 +2,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Manvik%20Kumar%20Gupta&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%C2%B7%20Systems%20%C2%B7%20Full-Stack&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Manvik Kumar Gupta banner"/>
 
-  <a href="https://github.com/manvik0730v">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=560&lines=Building+things+from+CPU+registers+to+full-stack+apps;Python+%C2%B7+C+%C2%B7+JavaScript;Computer+Architecture+%C2%B7+Networking+%C2%B7+CP" alt="Typing intro"/>
-  </a>
+ <a href="https://github.com/manvik0730v">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=680&lines=Building+things+from+CPU+registers+to+full-stack+apps;Python+%C2%B7+C+%C2%B7+JavaScript;Computer+Architecture+%C2%B7+Networking" alt="Typing intro"/>
+</a>
 
   <br/><br/>
 
